@@ -1,0 +1,13 @@
+Números mágicos. ¿Qué significa 0.25 o 0.15? Son valores hardcodeados sin contexto. Si mañana el IVA o el descuento cambian, ¿dónde los buscamos?
+0.25 -->Corresponde con el Descuento de los clientes Vip
+0.15 --> Corresponde con el Descuento de los clientes estandar
+
+Variables sin significado. Nombres como cT, m, tC o dV no aportan ninguna semántica. Nos obligan a adivinar.
+cT --> calcularTotal
+m --> importeBase
+tC --> tipoCliente
+dV --> esSocioVip
+
+Código Spaghetti. La anidación de múltiples if-else crea una estructura en forma de flecha > que hace casi imposible seguir el flujo lógico de ejecución
+Por ello si se sustituyen todos los if-else por solo if y con la clausula a la inversa (en algunos casos) obtenemos todos lo if con la misma identacion.
+Esto hace que sea mucho más legible y fasil de seguir el codigo.
