@@ -1,5 +1,17 @@
 # AEE.-Optimiza-y-documenta-codigo-aplicando-herramientas-de-refactorizacion-y-control-de-versiones
 Haciendo uso del repositorio creado por Willman Acosta (https://github.com/willeusa/RefactorizacionLegacy?authuser=0)
+
+## *Fase 1*
+Hemos comprobado los test de todo, cosa que sale en en verde. 
+En el CodeSmells.txt adjunto en la raiz encontramos los tres grandes problemas que tenia el codigo antes de la refactorizacion.
+
+## *Fase 2*
+Hemos refactorizado el codigo renombrando las variables y constantes ademas de aplanar el codigo.
+
+## *Fase 3*
+Usando la nomenclatura de JavaDoc hemos creado la documentacion necesaria.
+
+## Uso de IA
 |                | # 1 |
 |----------------|-----|
 | **Agente:**    |   ChatGPT  |
